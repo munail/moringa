@@ -1,0 +1,86 @@
+body {
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.nav navbar-nav {
+    text-align: center;
+}
+
+.links li {
+    color: white;
+    display: inline-table;
+    padding: 10px;
+    margin: 20px;
+    border: 8px solid black;
+    background-image: url("http://previews.123rf.com/images/1stchoice/1stchoice1511/1stchoice151100026/47894521-Silver-sparkle-background-abstract-light-grey-design-Stock-Photo.jpg");
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 70px;
+    color: black;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+    background-image: url(../images/kh.jpeg);
+    background-repeat: no-repeat;
+}
+
+.pic {
+    width: 500px;
+    float: left;
+}
+
+h2 {
+    text-align: center;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    color: blue;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+li {
+    text-decoration: underline;
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+.list li {
+    font-size: 20px;
+    text-decoration: none;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+p {
+    font-size: 19px;
+    text-align: justify;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+a:link {
+    text-align: center;
+    font-style: italic;
+    font-size: 25px;
+    font-family: 'UnifrakturMaguntia', cursive;
+font-family: 'Gabriela', serif;
+}
+
+a:hover {
+    background-color: white;
+}
+.green{
+    font-weight: bolder;
+    color: green;
+}
